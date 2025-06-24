@@ -201,7 +201,7 @@ body {
 }
 
 .modal-content {
-  background-color: white;
+  background-color: rgb(249, 230, 230);
   border-radius: 8px;
   padding: 30px;
   max-width: 600px;
