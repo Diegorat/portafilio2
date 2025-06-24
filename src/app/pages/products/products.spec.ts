@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Productos } from './products'; // Asegúrate de que la ruta sea correcta
 import { Products } from '../../services/products';
+import { sampleTime } from 'rxjs';
 
 @Component({
   selector: 'app-products',
@@ -66,3 +67,4 @@ export class ProductsComponent implements OnInit {
     }
   }
 }
+sampleTime

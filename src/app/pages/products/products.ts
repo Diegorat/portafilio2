@@ -48,4 +48,5 @@ throw new Error('Method not implemented.');
     this.productoSeleccionado = null;
     document.body.style.overflow = 'auto'; // Restaura el scroll
   }
+
 }
